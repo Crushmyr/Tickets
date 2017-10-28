@@ -23,7 +23,10 @@
 $ git clone https://github.com/Crushmyr/Tickets
 ```
 
-
+然后用pip下载第三方库：
+``` bash
+$ pip install -r requirements.txt
+```
 
 ## Help
 
